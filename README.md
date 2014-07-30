@@ -1,0 +1,4 @@
+GlobalChatMute
+==============
+
+Bukkit Plugin
